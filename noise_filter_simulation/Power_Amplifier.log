@@ -1,0 +1,16 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\jeyakumar.kogulan\Desktop\analog_project\final\Power_Amplifier.net
+Start Time: Sun Sep 13 21:07:08 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 3.655 seconds.
+
+Files loaded:
+C:\Users\jeyakumar.kogulan\Desktop\analog_project\final\Power_Amplifier.net
+C:\Users\jeyakumar.kogulan\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\jeyakumar.kogulan\AppData\Local\LTspice\lib\cmp\standard.bjt
+
